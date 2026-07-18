@@ -137,5 +137,4 @@ See the LICENSE file for complete details.
 ---
 
 # 👨‍💻 Developer
-
-BlackCrow-Code<img width="802" height="310" alt="Screenshot From 2026-07-18 09-28-35" src="https://github.com/user-attachments/assets/3fe6c782-8a40-4be9-be99-b1b22f5a84e8" />
+BlackCrow-Code
